@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/071e2f16-0176-4acf-8001-b24b205988ac/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/azmonitor7865"
+}
